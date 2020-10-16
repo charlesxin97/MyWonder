@@ -11,7 +11,7 @@ MyWonder features in reducing the time for visualization to under 10 minutes whi
 3. **Overprocessing** Each of the member is asked to create a few visualization examples and provide step to step screen shots. This can be done by one or two experts in visualization instead of the whole team.
 
 ### Deliverables
-- **Replacement of terminalogy and contents in the user interface** The current ones are not appropariate for demo, need to change them in new release for demo.
+- **Replacement of terminology and contents in the user interface** The current ones are not appropariate for demo, need to change them in new release for demo.
 - **Note area in the visualization** There is no area for a note in the visualization, need to add one.
 - **Step to step visualization examples for the demo** Examples of visualization with powerpoint of step by step screen shots.
 
