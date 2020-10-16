@@ -14,5 +14,4 @@ This work is licensed under a
 MyWonder features in reducing the time for visualization to under 10 minutes which used to take hours, an efficient way to distribute files on the cloud and the availability for users to calculate analytics and summaries from phone in a short time.
 ## Documentation
 Documentation for the project management.
-
-- [Project documentation]:(https://charlesxin97.github.io/MyWonder/)
+- [Project documentation](https://charlesxin97.github.io/MyWonder/)
