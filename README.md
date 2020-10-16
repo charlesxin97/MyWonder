@@ -15,4 +15,4 @@ MyWonder features in reducing the time for visualization to under 10 minutes whi
 ## Documentation
 Documentation for the project management.
 
-**Link**:https://charlesxin97.github.io/MyWonder/
+- [Project documentation]:(https://charlesxin97.github.io/MyWonder/)
