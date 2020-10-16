@@ -23,4 +23,4 @@ MyWonder features in reducing the time for visualization to under 10 minutes whi
 
 
 ### Gantt chart
-![Image](src)
+![Image](Gantt_chart.png)
